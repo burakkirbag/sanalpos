@@ -1,0 +1,5 @@
+C:\Users\Burak\Dropbox\Paktalos\git\SanalPos\SanalPos\bin\SanalPos.dll.config
+C:\Users\Burak\Dropbox\Paktalos\git\SanalPos\SanalPos\bin\SanalPos.dll
+C:\Users\Burak\Dropbox\Paktalos\git\SanalPos\SanalPos\bin\SanalPos.pdb
+C:\Users\Burak\Dropbox\Paktalos\git\SanalPos\SanalPos\obj\Debug\SanalPos.dll
+C:\Users\Burak\Dropbox\Paktalos\git\SanalPos\SanalPos\obj\Debug\SanalPos.pdb
